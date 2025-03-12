@@ -909,9 +909,9 @@ window.player = {
     autoRealityForFilter: false,
   },
   IAP: {
-    enabled: false,
+    enabled: true,
     checkoutSession: {
-      id: false,
+      id: true,
     }
   },
 };
