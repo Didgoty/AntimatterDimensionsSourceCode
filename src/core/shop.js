@@ -6,7 +6,7 @@ import Payments from "./payments";
 export const shop = {};
 
 export const ShopPurchaseData = {
-  totalSTD: 0,
+  totalSTD: 999999999999999999999,
   spentSTD: 0,
   respecAvailable: false,
   lastRespec: "",
